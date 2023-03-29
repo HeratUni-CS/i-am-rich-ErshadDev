@@ -10,7 +10,7 @@ void main() {
           backgroundColor: const Color.fromARGB(255, 13, 10, 43),
           ),
           body: const Center(
-            child : Text('This is my first project')
+            child : Image(image: AssetImage('images/prof.jpg'),),
           ),
           backgroundColor: const Color.fromARGB(255, 238, 238, 238),
         )
